@@ -38,6 +38,7 @@ To run this project, you will need Python installed along with the following lib
 
 Bash
 pip install pandas scikit-learn matplotlib seaborn kagglehub joblib ipython
+
 🚀 How It Works
 The script is divided into clear, logical steps:
 
